@@ -258,6 +258,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 - <img src="https://api.iconify.design/mdi:dna.svg?color=%23E34234" height="14"/> [Ancestry](https://github.com/reeeeemo/ancestry-mcp) - Read .ged files and genetic data
+- [Ambolt](https://github.com/ambolt/ambolt-mcp) - Company registry lookup (Norway, Finland, Czechia, Slovakia, France, UK, Latvia, Estonia, GLEIF), EU/UK tenders, exchange rates, DNS and IBAN checks; free, no key (`https://api.ambolt.dev/mcp`)
 
 <br />
 
